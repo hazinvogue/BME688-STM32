@@ -1,0 +1,5 @@
+../Core/Src/portbme.c:16:22:bme68x_i2c_read	48	static
+../Core/Src/portbme.c:30:22:bme68x_i2c_write	48	static
+../Core/Src/portbme.c:43:6:bme68x_delay_us	16	static
+../Core/Src/portbme.c:49:6:bme68x_check_rslt	16	static
+../Core/Src/portbme.c:82:8:bme68x_interface_init	24	static
